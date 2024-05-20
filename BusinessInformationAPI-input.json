@@ -1,0 +1,13 @@
+[
+    {
+        "url": "v1/accounts/106921820502284046280/locations",
+        "domain": "https://mybusinessbusinessinformation.googleapis.com",
+        "method": "GET",
+        "headers": [
+            {
+                "key": "Content-Type",
+                "value": "application/json"
+            }
+        ]
+    }
+]
