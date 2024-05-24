@@ -1,0 +1,16 @@
+[
+    {
+        "qs": [
+            {}
+        ],
+        "url": "v1/locations/15057763796391662601:fetchMultiDailyMetricsTimeSeries?dailyMetrics=WEBSITE_CLICKS&dailyMetrics=BUSINESS_IMPRESSIONS_DESKTOP_MAPS&dailyMetrics=BUSINESS_IMPRESSIONS_DESKTOP_SEARCH&dailyMetrics=BUSINESS_IMPRESSIONS_MOBILE_MAPS&dailyMetrics=BUSINESS_IMPRESSIONS_MOBILE_SEARCH&dailyMetrics=BUSINESS_CONVERSATIONS&dailyMetrics=BUSINESS_DIRECTION_REQUESTS&dailyMetrics=CALL_CLICKS&dailyMetrics=BUSINESS_BOOKINGS&dailyMetrics=BUSINESS_FOOD_ORDERS&dailyMetrics=BUSINESS_FOOD_MENU_CLICKS&dailyRange.start_date.year=2024&dailyRange.start_date.month=05&dailyRange.start_date.day=1&dailyRange.end_date.year=2024&dailyRange.end_date.month=05&dailyRange.end_date.day=24",
+        "domain": "https://businessprofileperformance.googleapis.com/",
+        "method": "GET",
+        "headers": [
+            {
+                "key": "Content-Type",
+                "value": "application/json"
+            }
+        ]
+    }
+]
