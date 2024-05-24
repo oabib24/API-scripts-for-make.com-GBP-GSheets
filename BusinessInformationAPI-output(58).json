@@ -1,0 +1,1463 @@
+[
+    {
+        "body": {
+            "locations": [
+                {
+                    "name": "locations/1491285217119004765",
+                    "storeCode": "MOKSC02",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(816) 408-6310"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "64492",
+                        "administrativeArea": "MO",
+                        "locality": "Trimble",
+                        "addressLines": [
+                            "6800 U.S. 169"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/mo/kansas-city/trimble/6900-us-169/?utm_source=GBPListings&utm_medium=organic&utm_campaign=MO-KSC-02",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2023,
+                            "month": 4,
+                            "day": 13
+                        }
+                    }
+                },
+                {
+                    "name": "locations/1956497901174951356",
+                    "storeCode": "TXGAL03",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(409) 254-4098"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77568",
+                        "administrativeArea": "TX",
+                        "locality": "La Marque",
+                        "addressLines": [
+                            "1731 Main St"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/houston/la-marque/1731-main-st/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-GAL-03",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 1996,
+                            "month": 1,
+                            "day": 17
+                        }
+                    }
+                },
+                {
+                    "name": "locations/3724097369155214714",
+                    "storeCode": "FLSWD01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(239) 747-7558"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "33913",
+                        "administrativeArea": "FL",
+                        "locality": "Fort Myers",
+                        "addressLines": [
+                            "14600 Jetport Loop"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/fort-myers/14600-jetport-loop/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-SWD-01",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/4426533000483190932",
+                    "storeCode": "FLCED05",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(386) 200-9861"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32132",
+                        "administrativeArea": "FL",
+                        "locality": "Edgewater",
+                        "addressLines": [
+                            "421 Timaquan Trail"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/orlando-daytona-beach-melbourne/edgewater/421-timaquan-trail/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-CED-05",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/4950351762511972922",
+                    "storeCode": "FLSED01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(561) 413-6711"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "33426",
+                        "administrativeArea": "FL",
+                        "locality": "Boynton Beach",
+                        "addressLines": [
+                            "514 W OCEAN AVE"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/miami-fort-lauderdale-west-palm-beach/boynton-beach/514-w-ocean-ave/?utm_source=GBPListings&utm_medium=organic&utm_campaign=SED-01--FL",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2020,
+                            "month": 3,
+                            "day": 2
+                        }
+                    }
+                },
+                {
+                    "name": "locations/5553267376233744802",
+                    "storeCode": "TXDFW02",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(469) 489-4856"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "75098",
+                        "administrativeArea": "TX",
+                        "locality": "Wylie",
+                        "addressLines": [
+                            "2618 Vinson Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/wylie/2618-vinson-road/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-DFW-02",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/7921181141094771694",
+                    "storeCode": "FLSWD03",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(941) 413-1133"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "34211",
+                        "administrativeArea": "FL",
+                        "locality": "Bradenton",
+                        "addressLines": [
+                            "3106 81st Ct E"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/tampa-st-petersburg-sarasota/bradenton/3106-81st-ct-e/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-SWD-03",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2023,
+                            "month": 7,
+                            "day": 14
+                        }
+                    }
+                },
+                {
+                    "name": "locations/8409625617872885186",
+                    "storeCode": "04114168295151470963",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(904) 901-9503"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32095-5206",
+                        "administrativeArea": "FL",
+                        "locality": "St. Augustine",
+                        "addressLines": [
+                            "4533 Ave A"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/jacksonville/st-augustine/4533-ave-a/",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2024,
+                            "month": 4,
+                            "day": 30
+                        }
+                    }
+                },
+                {
+                    "name": "locations/8923877565852901676",
+                    "storeCode": "TXHOU12",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(281) 916-3935"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77365",
+                        "administrativeArea": "TX",
+                        "locality": "Porter",
+                        "addressLines": [
+                            "24495 Sorters Road"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/porter/recnation-rv-boat-storage/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-HOU-12",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2023,
+                            "month": 4,
+                            "day": 13
+                        }
+                    }
+                },
+                {
+                    "name": "locations/9144926309855782830",
+                    "storeCode": "TXGAL01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(979) 202-0520"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77515",
+                        "administrativeArea": "TX",
+                        "locality": "Angleton",
+                        "addressLines": [
+                            "2651 Hwy 35"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/angleton/2651-texas-35/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-GAL-01",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2017,
+                            "month": 11,
+                            "day": 1
+                        }
+                    }
+                },
+                {
+                    "name": "locations/11716805667834436735",
+                    "storeCode": "TXDFW10",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(817) 203-2550"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "76008",
+                        "administrativeArea": "TX",
+                        "locality": "Aledo",
+                        "addressLines": [
+                            "6200 E Interstate I-20"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/aledo/6200-e-interstate-i-20/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-DFW-10",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/11775673988691491212",
+                    "storeCode": "FLNED01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(904) 295-1829"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32081",
+                        "administrativeArea": "FL",
+                        "locality": "Ponte Vedra Beach",
+                        "addressLines": [
+                            "11325 Old Dixie Hwy"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/ponte-verda-beach/11325-old-dixie-highway/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-NED-01",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/12099773256600665508",
+                    "storeCode": "TXHOU08",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(832) 281-6541"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77385",
+                        "administrativeArea": "TX",
+                        "locality": "Conroe",
+                        "addressLines": [
+                            "11332 Darby Loop"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/conroe/11332-darby-loop/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-HOU-08",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/15671631914244944904",
+                    "storeCode": "TXDFW01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(469) 423-6859"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "75098",
+                        "administrativeArea": "TX",
+                        "locality": "Wylie",
+                        "addressLines": [
+                            "2340 Vinson Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/wylie/2340-vinson-road/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-DFW-01",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/16162412282511421221",
+                    "storeCode": "TXGAL02",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(409) 263-4493"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77568",
+                        "administrativeArea": "TX",
+                        "locality": "La Marque",
+                        "addressLines": [
+                            "226 Texas City Wye"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/la-marque/recnation-rv-boat-storage/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-GAL-02",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2023,
+                            "month": 3,
+                            "day": 14
+                        }
+                    }
+                },
+                {
+                    "name": "locations/16764484411122709099",
+                    "storeCode": "TXHOU09",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(832) 626-0966",
+                        "additionalPhones": [
+                            "(832) 515-2715"
+                        ]
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77429",
+                        "administrativeArea": "TX",
+                        "locality": "Cypress",
+                        "addressLines": [
+                            "19930 Cypress Church Rd."
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/cypress/19930-cypress-church-rd/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-HOU-09",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/17838066068230300326",
+                    "storeCode": "TXHOU02",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(936) 215-8873"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77365",
+                        "administrativeArea": "TX",
+                        "locality": "Porter",
+                        "addressLines": [
+                            "20581 FM 1314 Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/porter/20581-fm-1314-rd/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-HOU-02",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/2865250328999608041",
+                    "storeCode": "AZTUC01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(520) 523-8977"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "85756",
+                        "administrativeArea": "AZ",
+                        "locality": "Tucson",
+                        "addressLines": [
+                            "6455 S Wilmot Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/az/tucson-sierra-vista/tucson/6455-s-wilmot-rd/?utm_source=GBPListings&utm_medium=organic&utm_campaign=AZ-TUC-01",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2023,
+                            "month": 3,
+                            "day": 14
+                        }
+                    }
+                },
+                {
+                    "name": "locations/3105186173754573417",
+                    "storeCode": "TXDFW06",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(469) 214-6694"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "75454",
+                        "administrativeArea": "TX",
+                        "locality": "Melissa",
+                        "addressLines": [
+                            "6053 North McDonald Street"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/melissa/6053-n-mcdonald-street/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-DFW-06",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/6416324796624019688",
+                    "storeCode": "10669514121465595358",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(843) 894-3031"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "29526",
+                        "administrativeArea": "SC",
+                        "locality": "Conway",
+                        "addressLines": [
+                            "5730 Highway 90"
+                        ]
+                    },
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2023,
+                            "month": 12,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "name": "locations/6968994234078219712",
+                    "storeCode": "FLNED08",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(904) 872-8453"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32258",
+                        "administrativeArea": "FL",
+                        "locality": "Jacksonville",
+                        "addressLines": [
+                            "6466 Greenland Road"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/jacksonville/jacksonville/6466-greenland-road/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-NED-08",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2018,
+                            "month": 10,
+                            "day": 14
+                        }
+                    }
+                },
+                {
+                    "name": "locations/7910219576177409619",
+                    "storeCode": "AZPHX01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(480) 470-6615"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "85202",
+                        "administrativeArea": "AZ",
+                        "locality": "Mesa",
+                        "addressLines": [
+                            "1921 W 1st Ave"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/az/phoenix/mesa/1921-west-1st-avenue/?utm_source=GBPListings&utm_medium=organic&utm_campaign=AZ-PHX-01",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/8961547438155307405",
+                    "storeCode": "FLCED02",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(321) 257-2968"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32935",
+                        "administrativeArea": "FL",
+                        "locality": "Melbourne",
+                        "addressLines": [
+                            "2225 Avocado Ave"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/orlando-daytona-beach-melbourne/melbourne/2225-avocado-ave/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-CED-02",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2020,
+                            "month": 11,
+                            "day": 1
+                        }
+                    }
+                },
+                {
+                    "name": "locations/9192008286617555042",
+                    "storeCode": "TXHOU06",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(832) 784-8844"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77385",
+                        "administrativeArea": "TX",
+                        "locality": "Conroe",
+                        "addressLines": [
+                            "28153 Robinson Road"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/conroe/28153-robinson-rd/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-HOU-06",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/9400802848925416234",
+                    "storeCode": "TXHOU10",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(713) 677-2353"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77354",
+                        "administrativeArea": "TX",
+                        "locality": "Magnolia",
+                        "addressLines": [
+                            "306 Corporate Woods Drive"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/magnolia/306-corporate-woods-dr/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-HOU-10",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/9675932208985996974",
+                    "storeCode": "FLNED03",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(904) 342-1991"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32259",
+                        "administrativeArea": "FL",
+                        "locality": "St Johns",
+                        "addressLines": [
+                            "109 Badger Park Dr"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/st-johns/109-badger-park-drive/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-NED-03",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/9687783845730529944",
+                    "storeCode": "FLNED05",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(904) 344-0567"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32097",
+                        "administrativeArea": "FL",
+                        "locality": "Yulee",
+                        "addressLines": [
+                            "86075 Saint Francis Way"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/yulee/86075-st-francis-way/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-NED-05",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/10090046969701356714",
+                    "storeCode": "KSKSC01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(913) 704-4534"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "66226",
+                        "administrativeArea": "KS",
+                        "locality": "Shawnee",
+                        "addressLines": [
+                            "24105 W 43rd St"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/ks/shawnee/24105-w-43rd-st/?utm_source=GBPListings&utm_medium=organic&utm_campaign=KS-KSC-01",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/11002713331840421211",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(713) 944-3331"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77034",
+                        "administrativeArea": "TX",
+                        "locality": "Houston",
+                        "addressLines": [
+                            "8750 Galveston Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.storewithus.com/storage-houston-tx/8750-galveston-rd",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2024,
+                            "month": 3,
+                            "day": 26
+                        }
+                    }
+                },
+                {
+                    "name": "locations/11573115289391105005",
+                    "storeCode": "FLNED02",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(904) 295-1884"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32081",
+                        "administrativeArea": "FL",
+                        "locality": "Ponte Vedra Beach",
+                        "addressLines": [
+                            "11305 Old Dixie Hwy"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/ponte-verda-beach/11305-old-dixie-highway/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-NED-02",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/13740870629288876482",
+                    "storeCode": "FLCED01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(321) 415-8044"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32935",
+                        "administrativeArea": "FL",
+                        "locality": "Melbourne",
+                        "addressLines": [
+                            "2255 Avocado Avenue"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/orlando-daytona-beach-melbourne/melbourne/2255-avocado-ave/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-CED-01",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2010,
+                            "month": 7,
+                            "day": 1
+                        }
+                    }
+                },
+                {
+                    "name": "locations/13896990550520547716",
+                    "storeCode": "TXHOU14",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(281) 729-4845"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77084",
+                        "administrativeArea": "TX",
+                        "locality": "Houston",
+                        "addressLines": [
+                            "17819 French Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/houston/recnation-rv-boat-storage-2/",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/13947481419118910842",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(281) 550-9656"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77084-2441",
+                        "administrativeArea": "TX",
+                        "locality": "Houston",
+                        "addressLines": [
+                            "17602 French Road"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/houston/",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2023,
+                            "month": 12,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "name": "locations/14236100689685095143",
+                    "storeCode": "TXHOU03",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(832) 281-6236"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77339",
+                        "administrativeArea": "TX",
+                        "locality": "Kingwood",
+                        "addressLines": [
+                            "1424 Northpark Dr"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/kingwood/1424-northpark-dr/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-HOU-03",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/14378501036265375176",
+                    "storeCode": "TXHOU01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(936) 215-8786"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77318",
+                        "administrativeArea": "TX",
+                        "locality": "Willis",
+                        "addressLines": [
+                            "11697 Cude Cemetery Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/willis/11697-cude-cemetery-rd/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-HOU-01",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/15057763796391662601",
+                    "storeCode": "TXHOU11",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(281) 688-5287"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77449",
+                        "administrativeArea": "TX",
+                        "locality": "Katy",
+                        "addressLines": [
+                            "18103 W Little York Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/houston/katy/18103-w-little-york-rd/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-HOU-11",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/17521914591651250576",
+                    "storeCode": "TXDFW03/TXDFW03A",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(469) 461-7955"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "75098",
+                        "administrativeArea": "TX",
+                        "locality": "Wylie",
+                        "addressLines": [
+                            "3475 Vinson Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/wylie/3475-vinson-rd/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-DFW-03-03A",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/17861399567863059446",
+                    "storeCode": "FLNED06",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(904) 364-1392"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32259",
+                        "administrativeArea": "FL",
+                        "locality": "Saint Johns",
+                        "addressLines": [
+                            "2540 Saint Johns Parkway"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/st-johns/2540-st-john-parkway/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-NED-06",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/227231147717218349",
+                    "storeCode": "TXDFW08",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(469) 812-8078"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "75074",
+                        "administrativeArea": "TX",
+                        "locality": "Plano",
+                        "addressLines": [
+                            "1700 East Plano Parkway",
+                            "#100"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/plano/1700-e-plano-pkwy/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-DFW-08",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2002,
+                            "month": 2,
+                            "day": 1
+                        }
+                    }
+                },
+                {
+                    "name": "locations/1413602887569744418",
+                    "storeCode": "TNNSH01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(615) 640-2375",
+                        "additionalPhones": [
+                            "(615) 358-8111"
+                        ]
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "37214",
+                        "administrativeArea": "TN",
+                        "locality": "Nashville",
+                        "addressLines": [
+                            "1360 Pleasant Hill Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tennessee/nashville/recnation-rv-boat-storage/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TN-NSH-01",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2023,
+                            "month": 3,
+                            "day": 14
+                        }
+                    }
+                },
+                {
+                    "name": "locations/1509651018010309625",
+                    "storeCode": "TXDFW07",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(469) 378-5849"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "76208",
+                        "administrativeArea": "TX",
+                        "locality": "Corinth",
+                        "addressLines": [
+                            "2750 W Shady Shores Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/corinth/2750-w-shady-shores-rd/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-DFW-07",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/1731217607564175757",
+                    "storeCode": "MOKSC01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(913) 423-2280"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "64089",
+                        "administrativeArea": "MO",
+                        "locality": "Smithville",
+                        "addressLines": [
+                            "18316 Collins Road"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/mo/kansas-city/smithville/18316-collins-rd/?utm_source=GBPListings&utm_medium=organic&utm_campaign=MO-KSC-01",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/2561701661271478160",
+                    "storeCode": "TXAUS01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(512) 661-7175"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "78641-1623",
+                        "administrativeArea": "TX",
+                        "locality": "Leander",
+                        "addressLines": [
+                            "8748 RM 2243"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/leander/8748-rm-2243/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-AUS-01",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/2681473929628118890",
+                    "storeCode": "TXHOU05",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(832) 568-7054"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77433",
+                        "administrativeArea": "TX",
+                        "locality": "Cypress",
+                        "addressLines": [
+                            "22614 Schiel Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/cypress/22614-schiel-road/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-HOU-05",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/3285567307576696457",
+                    "storeCode": "TXSAN01",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(830) 202-5802"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "78006",
+                        "administrativeArea": "TX",
+                        "locality": "Boerne",
+                        "addressLines": [
+                            "29 Scenic Loop Road"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/boerne/29-scenic-loop-rd/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-SAN-01",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/8084556083947000024",
+                    "storeCode": "FLCED04",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(386) 200-6937"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32132",
+                        "administrativeArea": "FL",
+                        "locality": "Edgewater",
+                        "addressLines": [
+                            "403 Timaquan Trail"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/orlando-daytona-beach-melbourne/edgewater/403-timaquan-trail/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-CED-04",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/8874711392838009095",
+                    "storeCode": "TXHOU07",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(832) 346-9436",
+                        "additionalPhones": [
+                            "(832) 425-4320"
+                        ]
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77386",
+                        "administrativeArea": "TX",
+                        "locality": "Conroe",
+                        "addressLines": [
+                            "29611 Robinson Road"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/conroe/29611-robinson-rd/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-HOU-07",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/9078177216728637546",
+                    "storeCode": "TXDFW04",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(469) 214-6534"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "75409",
+                        "administrativeArea": "TX",
+                        "locality": "Anna",
+                        "addressLines": [
+                            "2380 FM 455"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/anna/2380-fm-455/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-DFW-04",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/10576693795984021131",
+                    "storeCode": "TXHOU04",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(832) 979-0315"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77365",
+                        "administrativeArea": "TX",
+                        "locality": "Porter",
+                        "addressLines": [
+                            "25203 Kelly Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/porter/25203-kelly-road/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-HOU-04",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/11387393097028144608",
+                    "storeCode": "TXDFW09",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(469) 960-4548"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "75098",
+                        "administrativeArea": "TX",
+                        "locality": "Wylie",
+                        "addressLines": [
+                            "4010 Highway 78 North"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/wylie/4010-s-state-hwy-78/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-DFW-09",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/11413927561207673043",
+                    "storeCode": "TXDFW05",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(469) 564-4226"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "76126",
+                        "administrativeArea": "TX",
+                        "locality": "Fort Worth",
+                        "addressLines": [
+                            "16161 US-377"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/fort-worth/16161-highway-377/?utm_source=GBPListings&utm_medium=organic&utm_campaign=TX-DFW-05",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/12836180174991411111",
+                    "storeCode": "TXHOU13",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(281) 377-9119"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77084",
+                        "administrativeArea": "Texas",
+                        "locality": "Houston",
+                        "addressLines": [
+                            "17818 French Road"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/houston/houston/17818-french-rd/",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/13732701477391591625",
+                    "storeCode": "FLNED04",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(904) 980-0545"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32081",
+                        "administrativeArea": "FL",
+                        "locality": "Ponte Vedra Beach",
+                        "addressLines": [
+                            "10525 Old Dixie Hwy"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/ponte-verda-beach/10525-old-dixie-highway/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-NED-04",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2019,
+                            "month": 9,
+                            "day": 30
+                        }
+                    }
+                },
+                {
+                    "name": "locations/14123753950795369350",
+                    "storeCode": "FLNED07",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(904) 364-1411"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32259",
+                        "administrativeArea": "FL",
+                        "locality": "St Johns",
+                        "addressLines": [
+                            "8101 Longleaf Pine Pkwy"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/st-johns/8101-longleaf-pine-parkway/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FLNED-07",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/16857746273642818704",
+                    "storeCode": "FLSWD02",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(239) 558-1979"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "33905",
+                        "administrativeArea": "FL",
+                        "locality": "Ft. Myers",
+                        "addressLines": [
+                            "8930 Laredo Ave."
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/fort-myers/8030-laredo-ave/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-SWD-02",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                },
+                {
+                    "name": "locations/17168703530042563309",
+                    "storeCode": "07996424813835633450",
+                    "title": "RecNation RV & Boat Storage - French Rd. 4",
+                    "phoneNumbers": {
+                        "primaryPhone": "(346) 277-0426"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "77084",
+                        "administrativeArea": "TX",
+                        "locality": "Houston",
+                        "addressLines": [
+                            "17610 French Rd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/tx/houston/houston/17610-french-rd/?utm_source=GBPListings&utm_medium=organic&utm_campaign=17610-french-rd",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2023,
+                            "month": 12,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "name": "locations/17245856534624014427",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(941) 214-7880"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "33950",
+                        "administrativeArea": "FL",
+                        "locality": "Punta Gorda",
+                        "addressLines": [
+                            "25378 Marion Avenue"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/fort-myers-naples/punta-gorda/25378-marion-ave/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-SWD-03",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true,
+                        "openingDate": {
+                            "year": 2023,
+                            "month": 10,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "name": "locations/17754739288780679892",
+                    "storeCode": "FLCED03",
+                    "title": "RecNation RV & Boat Storage",
+                    "phoneNumbers": {
+                        "primaryPhone": "(386) 200-6703"
+                    },
+                    "storefrontAddress": {
+                        "regionCode": "US",
+                        "languageCode": "en",
+                        "postalCode": "32724",
+                        "administrativeArea": "FL",
+                        "locality": "DeLand",
+                        "addressLines": [
+                            "2425 E International Speedway Blvd"
+                        ]
+                    },
+                    "websiteUri": "https://www.recnationstorage.com/boat-rv-storage-locations/fl/orlando-daytona-beach-melbourne/deland/2425-e-international-speedway-blvd/?utm_source=GBPListings&utm_medium=organic&utm_campaign=FL-CED-03",
+                    "openInfo": {
+                        "status": "OPEN",
+                        "canReopen": true
+                    }
+                }
+            ]
+        },
+        "headers": {
+            "content-type": "application/json; charset=UTF-8",
+            "vary": "X-Origin, Referer, Origin,Accept-Encoding",
+            "date": "Fri, 24 May 2024 06:04:37 GMT",
+            "server": "ESF",
+            "cache-control": "private",
+            "x-xss-protection": "0",
+            "x-frame-options": "SAMEORIGIN",
+            "x-content-type-options": "nosniff",
+            "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+            "accept-ranges": "none",
+            "connection": "close",
+            "transfer-encoding": "chunked"
+        },
+        "statusCode": 200
+    }
+]
